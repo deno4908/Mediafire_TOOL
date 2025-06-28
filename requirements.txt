@@ -1,0 +1,4 @@
+curl_cffi==0.10.0
+selenium==4.33.0
+seleniumbase==4.39.2
+curl_cffi==0.10.0
