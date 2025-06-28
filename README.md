@@ -40,7 +40,7 @@ TOOL Reg ACC mediafire và thêm mã mời
 ![Lưu Ý 1](https://i.postimg.cc/T1V6PZG2/image.png)
 **Mã Mời** : Là ký tự ở cuối phần link mã mời VD "https://www.mediafire.com/?t6qyoni" -> Thì mã mời là "t6qyoni"
 ![Lưu Ý 2](https://i.postimg.cc/gksCBy27/image.png)
-**Tài Khoản** : Tài khoản được reg không liên quan gì đến tài khoản chính mà bạn dùng để mờimời
+**Tài Khoản** : Tài khoản được reg không liên quan gì đến tài khoản chính mà bạn dùng để mời
 
 ## Authors
 
