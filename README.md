@@ -12,13 +12,13 @@ TOOL Reg ACC mediafire và thêm mã mời
 
 
 ## 🚀 Hướng Dẫn Chạy TOOL
-**Windows(python 1.12 và 64 bit)**
+**Windows(python 3.12 và 64 bit)**
 
 - Cài packages :  ```pip install -r requirements.txt```
 - Run TOOL :  ```python run.py```
 
 
-**Ubuntu(python 1.12) - amd64/x86**
+**Ubuntu(python 3.12) - amd64/x86**
 
 - Cập nhật hệ thống : ```sudo apt update && sudo apt upgrade -y```
 - Cài wget : ```sudo apt install wget curl lsb-release -y```
