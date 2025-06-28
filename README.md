@@ -3,7 +3,6 @@
 
 TOOL Reg ACC mediafire và thêm mã mời
 
-
 ![Logo](https://i.postimg.cc/jqXPWC5T/mediafire4922-logowik-com.webp)
 
 
@@ -13,18 +12,13 @@ TOOL Reg ACC mediafire và thêm mã mời
 
 
 ## 🚀 Hướng Dẫn Chạy TOOL
-**Windows**
+**Windows(python 1.12 và 64 bit)**
 
 - Cài packages :  ```pip install -r requirements.txt```
 - Run TOOL :  ```python run.py```
 
-**Ubuntu - amd Dẫn Chạy TOOL**
-**Windows**
 
-- Cài packages :  ```pip install -r requirements.txt```
-- Run TOOL :  ```python run.py```
-
-**Ubuntu - amd64/x86**
+**Ubuntu(python 1.12) - amd64/x86**
 
 - Cập nhật hệ thống : ```sudo apt update && sudo apt upgrade -y```
 - Cài wget : ```sudo apt install wget curl lsb-release -y```
