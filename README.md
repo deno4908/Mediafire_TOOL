@@ -32,6 +32,8 @@ TOOL Reg ACC mediafire và thêm mã mời
 - Tải Chrome : ```wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb```
 - Cài Chrome : ```sudo dpkg -i google-chrome-stable_current_amd64.deb || sudo apt install -f -y```
 - Cài packages : ```pip install -r requirements.txt --break-system-packages --force-reinstall --ignore-installed```
+- Clone : ```git clone https://github.com/deno4908/Mediafire_TOOL```
+- cd : ```cd Mediafire_TOOL```
 - Run TOOL :  ```python3 run.py```
 
 
