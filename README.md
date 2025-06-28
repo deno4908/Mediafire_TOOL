@@ -29,7 +29,8 @@ TOOL Reg ACC mediafire và thêm mã mời
 - Cập nhật hệ thống : ```sudo apt update && sudo apt upgrade -y```
 - Cài wget : ```sudo apt install wget curl lsb-release -y```
 - Cài Python : ```sudo apt install python3 python3-pip -y```
-- Cài Chrome : ```wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb```
+- Tải Chrome : ```wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb```
+- Cài Chrome : ```sudo dpkg -i google-chrome-stable_current_amd64.deb || sudo apt install -f -y```
 - Cài packages : ```pip install -r requirements.txt --break-system-packages --force-reinstall --ignore-installed```
 - Run TOOL :  ```python3 run.py```
 
