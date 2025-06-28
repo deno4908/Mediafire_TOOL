@@ -18,7 +18,7 @@ TOOL Reg ACC mediafire và thêm mã mời
 - Cài packages :  ```pip install -r requirements.txt```
 - Run TOOL :  ```python run.py```
 
-**Ubuntu - amd Dẫn Chạy TOOL
+**Ubuntu - amd Dẫn Chạy TOOL**
 **Windows**
 
 - Cài packages :  ```pip install -r requirements.txt```
